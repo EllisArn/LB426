@@ -1,0 +1,15 @@
+image: mcr.microsoft.com/dotnet/sdk:6.0
+
+stages:
+    - build
+    - test
+
+build:
+    stage: build
+    script:
+        - "dotnet build ArnLehnerLB-426/"
+
+test:
+    stage: test
+    script:
+        - "dotnet test ArnLehnerLB-426/"

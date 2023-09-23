@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArnLehnerLB-426", "ArnLehnerLB-426\ArnLehnerLB-426.csproj", "{1E955A7B-893F-4A83-B29D-7F08DF48D3BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArnLehnerLB-426.Tests", "ArnLehnerLB-426.Tests\ArnLehnerLB-426.Tests.csproj", "{62446E3E-9700-4215-BC8F-7E5117D68BB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E955A7B-893F-4A83-B29D-7F08DF48D3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E955A7B-893F-4A83-B29D-7F08DF48D3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E955A7B-893F-4A83-B29D-7F08DF48D3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E955A7B-893F-4A83-B29D-7F08DF48D3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62446E3E-9700-4215-BC8F-7E5117D68BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62446E3E-9700-4215-BC8F-7E5117D68BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62446E3E-9700-4215-BC8F-7E5117D68BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62446E3E-9700-4215-BC8F-7E5117D68BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD456B93-161E-4E14-BEA9-626549096BDE}
+	EndGlobalSection
+EndGlobal
